@@ -1,0 +1,11 @@
+{
+  "name": "u-rama-melon-make-the-ai-judge-laugh-302d0825",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one office joke to /output/entry.txt: the meeting that was called to measure the bandwidth it consumed.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
